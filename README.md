@@ -1,5 +1,3 @@
 # hello-world
-Test Feoras0
-I'm not sure if this is ok
-bla-bla-bla 
-Version 1.0
+Test Feoras
+Version 2.0
